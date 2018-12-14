@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="kuuki"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.sumiregawasyo.kuuki.db.Province"/>
+        <mapping class="com.sumiregawasyo.kuuki.db.City"/>
+        <mapping class="com.sumiregawasyo.kuuki.db.County"/>
+    </list>
+</litepal>
